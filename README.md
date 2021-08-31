@@ -3,11 +3,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=etrevisan&layout=compact&theme=dark&borderColor=black"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=etrevisan&layout=compact"/>
   </a>
  
  
-##### Skills:
+##### Skills 
+<hr>
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
