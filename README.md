@@ -5,10 +5,15 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=etrevisan&layout=compact"/>
   </a>
- 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=etrevisano&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
+  </a>
  
 ##### Skills 
-<hr>
+</h2>
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
