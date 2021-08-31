@@ -3,9 +3,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=etrevisan&layout=compact&theme=dark"
-    />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=etrevisan&layout=compact&theme=dark"/>
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etrevisan&repo=github-readme-stats&theme=material-palenight" />
+</a>  
 
 ##### Skills:
 <p align="center">
