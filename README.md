@@ -10,7 +10,7 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      width="406"   
+      width="410"   
       height="160"
       src="https://github-readme-stats.vercel.app/api?username=etrevisan&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
   </a>
