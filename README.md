@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-6633cc?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
+[![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
 
 <!--
