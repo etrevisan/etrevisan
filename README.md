@@ -40,5 +40,5 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-121212?style=flat-square&labelColor=121212&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
-[![Gmail Badge](https://img.shields.io/badge/-emillyvivit@gmail.com-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
  
