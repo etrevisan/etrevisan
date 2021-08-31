@@ -15,8 +15,8 @@
      src="https://github-readme-stats.vercel.app/api?username=etrevisan&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
   </a>
  
-##### Skills 
-<hr>
+# Skills 
+    
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
