@@ -12,7 +12,7 @@
       align="center"
       width="410"   
       height="160"
-     src="https://github-readme-stats.vercel.app/api?username=etrevisan&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+     src="https://github-readme-stats.vercel.app/api?username=etrevisan&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true"
   </a>
     
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=etrevisan&show_icons=true&hide_border=true)
