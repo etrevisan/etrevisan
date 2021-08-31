@@ -1,5 +1,11 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=etrevisan&layout=compact"
+    />
+  </a>
 
 ##### Skills:
 <p align="center">
