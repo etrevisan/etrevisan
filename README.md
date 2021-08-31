@@ -41,6 +41,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-121212?style=flat-square&labelColor=121212&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
 [![Gmail Badge](https://img.shields.io/badge/-emillyvivit@gmail.com-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
+    
+    <a target="_blank" href="https://www.linkedin.com/in/emilly-trevisan-7a1429157/">
+            <img align="left" alt="LinkdeIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+        </a>
 
 <!--
 **etrevisan/etrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
