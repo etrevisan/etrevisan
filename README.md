@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
+[![Linkedin Badge](https://img.shields.io/badge/-Emilly%Trevisan-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
+[![Gmail Badge](https://img.shields.io/badge/-emillyvivit@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
 
 <!--
 **etrevisan/etrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
