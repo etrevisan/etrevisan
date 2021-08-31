@@ -37,10 +37,6 @@
 </p>
 <br>
 
-[![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan)  
-[![Gmail Badge](https://img.shields.io/badge/-emillyvivit@gmail.com-ff4040?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)    
-    
 
 [![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
