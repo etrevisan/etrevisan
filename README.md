@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      width="400"   
+      width="250"   
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=etrevisan&layout=compact"/>
   </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
