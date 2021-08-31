@@ -14,6 +14,8 @@
       height="160"
      src="https://github-readme-stats.vercel.app/api?username=etrevisan&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
   </a>
+    
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=etrevisan&show_icons=true&hide_border=true)
  
 ## Skills 
     
