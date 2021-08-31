@@ -40,6 +40,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan)  
 [![Gmail Badge](https://img.shields.io/badge/-emillyvivit@gmail.com-ff4040?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)    
+    
+    [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 <!--
 **etrevisan/etrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
