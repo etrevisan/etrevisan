@@ -16,10 +16,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<div align=center>
-[![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
+[![Twitter Badge](https://img.shields.io/badge/-@emyyvv_-black?style=flat-square&labelColor=black&labelAlign=center&logo=twitter&logoColor=white&link=https://twitter.com/emyyvv_)](https://twitter.com/emyyvv_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
-</div>
+
 <!--
 **etrevisan/etrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
