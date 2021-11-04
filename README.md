@@ -17,7 +17,7 @@
   </a>
 -->
  
-## Skills 
+## Tecnologias que estou estudando atualmente 
     
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
