@@ -47,15 +47,11 @@
 </p> <br><br>
 <br>
 
-<p align="center">
-    Entre em contato comigo 📬
-    [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
-[![Gmail Badge](https://img.shields.io/badge/-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
-    
+
+Entre em contato comigo 📬 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
 [![Gmail Badge](https://img.shields.io/badge/-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
-
-</p>    
+ 
 
 
 <p align="center">
