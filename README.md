@@ -18,10 +18,10 @@
 -->
 
 ## Sobre mim
-<p> - Técnica em Informática - Análise e Desenvolvimento de Sistemas pelo COTIL :woman_technologist. </p>
+<p> - Técnica em Informática - Análise e Desenvolvimento de Sistemas pelo COTIL 👩‍💻. </p>
 <p> - Interesses: Java, Kotlin, Python, Flutter, Docker, SQL e Javascript. </p>
 <p> - Ferramentas: VSCode, IntelliJ, Postman, Bitbucket. </p>
-<p> - Gosto muito de Java :coffee e tenho muita curiosidade em saber mais sobre SQL. </p>
+<p> - Gosto muito de Java ☕ e tenho grande curiosidade em saber mais sobre SQL. </p>
  
 ## Tecnologias que estou estudando atualmente 
     
@@ -51,7 +51,7 @@ Entre em contato comigo:
 [![Gmail Badge](https://img.shields.io/badge/-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
 
 <p align="center">
-    Total de visitas em meu perfil :female_detective:<br>
+    Total de visitas em meu perfil 🕵️‍♀️:<br>
     <img align="center" src="https://profile-counter.glitch.me/etrevisan/count.svg" />
 </p>    
 
