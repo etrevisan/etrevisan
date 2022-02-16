@@ -22,7 +22,9 @@
 <p> - Interesses: Java, Kotlin, Python, Flutter, Docker, SQL e Javascript. </p>
 <p> - Ferramentas: VSCode, IntelliJ, Postman, Bitbucket. </p>
 <p> - Gosto muito de Java ☕ e tenho grande curiosidade em saber mais sobre SQL. </p>
- 
+
+<br><br>
+
 ## Tecnologias que estou estudando atualmente 
     
 <p align="center">
@@ -45,7 +47,7 @@
 </p>
 <br>
 
-Entre em contato comigo:
+Entre em contato comigo 📬: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
 [![Gmail Badge](https://img.shields.io/badge/-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
