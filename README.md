@@ -18,10 +18,10 @@
 -->
 
 ## Sobre mim
-- Técnica em Informática - Análise e Desenvolvimento de Sistemas pelo COTIL.
-- Interesses: Java, Kotlin, Python, Flutter, Docker, SQL e Javascript. 
-- Ferramentas: VSCode, IntelliJ, Postman, Bitbucket.
-- Gosto muito de Java e tenho muita curiosidade em saber mais sobre SQL.
+<p> - Técnica em Informática - Análise e Desenvolvimento de Sistemas pelo COTIL :woman_technologist. </p>
+<p> - Interesses: Java, Kotlin, Python, Flutter, Docker, SQL e Javascript. </p>
+<p> - Ferramentas: VSCode, IntelliJ, Postman, Bitbucket. </p>
+<p> - Gosto muito de Java :coffee e tenho muita curiosidade em saber mais sobre SQL. </p>
  
 ## Tecnologias que estou estudando atualmente 
     
