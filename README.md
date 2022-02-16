@@ -44,13 +44,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> <br><br>
 <br>
 
 <p align="center">
     Entre em contato comigo 📬
     
-    [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-   square&logo=Linkedin&logoSize=90px&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
+    [![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-square&logo=Linkedin&logoSize=90px&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
     [![Gmail Badge](https://img.shields.io/badge/-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
 </p>    
 
