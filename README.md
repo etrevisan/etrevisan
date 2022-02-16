@@ -48,8 +48,7 @@
 <br>
 
 Entre em contato comigo 📬: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-square&logo=Linkedin&logoSize=30px&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
+[![Linkedin Badge](https://img.shields.io/badge/-Emilly%20Trevisan-121212?style=flat-square&logo=Linkedin&logoSize=90px&logoColor=white&link=https://www.linkedin.com/in/emilly-trevisan/)](https://www.linkedin.com/in/emilly-trevisan) 
 [![Gmail Badge](https://img.shields.io/badge/-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillyvivit@gmail.com)](mailto:emillyvivit@gmail.com)
 
 <p align="center">
