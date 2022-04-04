@@ -21,7 +21,6 @@
 <p> - Técnica em Informática - Análise e Desenvolvimento de Sistemas pelo COTIL 👩‍💻. </p>
 <p> - Interesses: Java, Kotlin, Python, Flutter, Docker, SQL e Javascript. </p>
 <p> - Ferramentas: VSCode, IntelliJ, Postman, Bitbucket. </p>
-<p> - Gosto muito de Java ☕ e tenho grande curiosidade em saber mais sobre SQL. </p>
 
 <br><br>
 
