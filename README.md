@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-#### About me
-
-I'm a software development intern at CI&T.<br>
+I'm Systems Analyst at CI&T.<br>
 In 2021 I graduated in the technical course in Informatics - Systems Analysis and Development at the Technical College of Limeira. <br>
 I'm currently studying for a bachelor's degree in Business Administration at the State University of Campinas :)
 
